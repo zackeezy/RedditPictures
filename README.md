@@ -1,4 +1,4 @@
-#Reddit Pictures
+# Reddit Pictures
 
 This is an android app that functions as a frontend for [this](https://github.com/bradleypaul/reddit-pictures) repository by Paul Bradley.
 
